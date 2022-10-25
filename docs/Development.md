@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Install npm dependencies with `yarn` or `yarn install`.
 
-⚠️ You must replace all references to the package `@fortawesome/pro-solid-svg-icons` with `@fortawesome/pro-free-svg-icons` or set the environment variable `FONT_AWESOME_TOKEN` to a valid [Font Awesome Pro](https://fontawesome.com/pro) npm token in order for `yarn install` to succeed.
+⚠️ You must replace all references to the package `@fortawesome/free-solid-svg-icons` with `@fortawesome/pro-free-svg-icons` or set the environment variable `FONT_AWESOME_TOKEN` to a valid [Font Awesome Pro](https://fontawesome.com/pro) npm token in order for `yarn install` to succeed.
 
 ## Available Scripts
 

@@ -11,7 +11,7 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheck, faClipboard } from '@fortawesome/pro-solid-svg-icons';
+import { faCheck, faClipboard } from '@fortawesome/free-solid-svg-icons';
 import InputSection from './InputSection';
 import InfoInput from './InfoInput';
 import InfoFormGroup from './InfoFormGroup';
